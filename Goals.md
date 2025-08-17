@@ -1,4 +1,4 @@
-[[README]]
+[README](README.md)
 
 1. why
 	- After my undergraduate degree, I learned much more of what's possible and new topics to learn. Even though I had four years to learn all I could, it feels as if I'm still just touching the tip of the computer science ice burg. The reason I'm continuing for a masters degree is because I haven't had enough learning and want more.
