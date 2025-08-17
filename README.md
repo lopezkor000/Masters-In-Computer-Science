@@ -3,5 +3,5 @@ This is going to document my journey through a Masters in CS along with any reso
 
 ## Table of Contents
 
-[[Goals]]
+[Goals](Goals.md)
 ### Fall 2025
