@@ -8,3 +8,4 @@ This is going to document my journey through a Masters in CS along with any reso
 - [Theoretical Foundations of Computation](Courses/Theoretical-Foundations-of-Computation.md)
 - Special Topics: [Applied LLMs](Courses/Applied-LLMs.md)
 - [Computer Architecture](Courses/Computer-Architecture.md)
+- [CSCI 1101 - Intro to Computer Science](TA/CSCI-1101.md)
